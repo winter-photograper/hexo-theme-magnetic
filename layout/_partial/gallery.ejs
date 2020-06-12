@@ -3,9 +3,11 @@
     <% if (item.photos.length){ %>
         <% item.photos.forEach(function(photo){ %>
             <div class="picture-container">
-                <a href="#" data-featherlight="<%- photo %>">
-                    <img src="<%- photo %>" class="img-thumbnail" />
-                </a>
+               <a href="#" data-featherlight="<%- photo %>">
+		   <!-- <div class="image-container" data-type="content-image" data-size="100x100"> -->
+ 	                   <img src="<%- photo %>" class="img-thumbnail" data-original="<%- photo %>" />
+	   	   <!-- </div> -->
+               </a>
             </div>
         <% }); %>
     <% } %>
