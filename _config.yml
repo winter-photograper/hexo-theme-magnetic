@@ -9,10 +9,10 @@ menu:
 default_post_title: Untitled
 
 # Default post cover index page
-default_cover_index: "https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/david-murray-chambers-cYoKZ0XJcEA-unsplash-450-450.jpg"
+default_cover_index: "http://img.winterchen.com/20200613213552.png"
 
 # Default post cover index page
-default_cover_detail: "https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/david-murray-chambers-cYoKZ0XJcEA-unsplash.jpg"
+default_cover_detail: "http://img.winterchen.com/20200613213445.png"
 
 # Favicon
 favicon: /img/favicon.png
