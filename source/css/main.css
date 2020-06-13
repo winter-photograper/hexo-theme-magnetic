@@ -251,8 +251,8 @@ h5, h6          { font-weight: bolder }
     }
 
     header .rights a{
-        font-family: "raleway-bold", arial;
-        font-weight: bold;
+        /* font-family: "raleway-bold", arial;
+        font-weight: bold; */
         text-decoration: none;
     }
     #menu_icon,

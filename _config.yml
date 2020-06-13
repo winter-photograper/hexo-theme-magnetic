@@ -49,3 +49,14 @@ rss_url:
 instagram_url:
 youtube_url:
 
+# 备案
+beian: 
+    # 是否显示备案信息
+    enable: true
+    # 是否在主页面最底下显示备案信息(虽然丑，但是完全满足规定要求)
+    enableFooter: true
+    # 备案号
+    beianInfo: 浙ICP备17056942号
+    # 链接地址
+    link: http://www.beian.miit.gov.cn
+
