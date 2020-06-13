@@ -15,7 +15,7 @@ default_cover_index: "https://raw.githubusercontent.com/WinterChenS/imgrpo/maste
 default_cover_detail: "https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/david-murray-chambers-cYoKZ0XJcEA-unsplash.jpg"
 
 # Favicon
-favicon: ""
+favicon: /img/favicon.png
 
 # Comments. Choose one by filling up the information
 comments:
