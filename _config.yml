@@ -1,19 +1,18 @@
 # Header
 menu:
-  Home: /
-  Works: /works
-  Material: /material
-  Photographer: /photographer
+  Home: https://photo.winterchen.com
+  Material: https://material.winterchen.com
+  Photographer: /
   Archives: /archives
 
 # Default post title
 default_post_title: Untitled
 
 # Default post cover index page
-default_cover_index: "http://placehold.it/450x450"
+default_cover_index: "https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/david-murray-chambers-cYoKZ0XJcEA-unsplash-450-450.jpg"
 
 # Default post cover index page
-default_cover_detail: "http://placehold.it/1300x500"
+default_cover_detail: "https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/david-murray-chambers-cYoKZ0XJcEA-unsplash.jpg"
 
 # Favicon
 favicon: ""
