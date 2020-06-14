@@ -1,18 +1,18 @@
 # Header
 menu:
-  Home: https://photo.winterchen.com
-  Material: https://material.winterchen.com
-  Photographer: /
-  Archives: /archives
+  作品: https://photo.winterchen.com
+  素材: https://material.winterchen.com
+  摄影师: /
+  归档: /archives
 
 # Default post title
 default_post_title: Untitled
 
 # Default post cover index page
-default_cover_index: "http://img.winterchen.com/20200613213552.png"
+default_cover_index: "http://img.winterchen.com/david-murray-chambers-cYoKZ0XJcEA-unsplash-450-450.jpg"
 
 # Default post cover index page
-default_cover_detail: "http://img.winterchen.com/20200613213445.png"
+default_cover_detail: "http://img.winterchen.com/david-murray-chambers-cYoKZ0XJcEA-unsplash1300-500.jpg"
 
 # Favicon
 favicon: /img/favicon.png
@@ -37,7 +37,7 @@ comments:
 
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-155319408-4
 
 # Social Accounts
 twitter_url:
